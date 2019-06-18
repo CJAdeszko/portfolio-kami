@@ -18,16 +18,16 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: "cjadeszko@gmail.com"
+  email_address: "#"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: "CJAdeszko"
+  github: "#"
   google_plus:
   instagram:
-  linkedin:  https://www.linkedin.com/in/christopherjadeszko
+  linkedin:  "#"
   pinterest:
   reddit:
   soundcloud:
